@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "D:\\Projects\\git\\queue",
+    "command": "cl /Zi /EHsc /std:c++20 /Fe:lockfull lockfull.cpp",
+    "file": "lockfull.cpp"
+  },
+  {
+    "directory": "D:\\Projects\\git\\queue",
+    "command": "cl /Zi /EHsc /std:c++20 /Fe:lockfree lockfree.cpp",
+    "file": "lockfree.cpp"
+  }
+]
